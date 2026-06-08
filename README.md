@@ -69,6 +69,52 @@
 
 ---
 
+### ⛓️ Web3 & Blockchain Development
+
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge\&logo=solidity)
+![Web3.js](https://img.shields.io/badge/WEB3.JS-F16822?style=for-the-badge\&logo=web3.js)
+![Ethers.js](https://img.shields.io/badge/ETHERS.JS-2535A0?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/HARDHAT-FFF100?style=for-the-badge)
+![Truffle](https://img.shields.io/badge/TRUFFLE-5E464D?style=for-the-badge\&logo=truffle)
+![MetaMask](https://img.shields.io/badge/METAMASK-F6851B?style=for-the-badge\&logo=metamask)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs)
+
+---
+
+
+### 🤖 AI & Automation Engineering
+
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge\&logo=openai)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-121212?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/VECTOR_DB-4B0082?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_SYSTEMS-FF6B35?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-6A0DAD?style=for-the-badge)
+
+---
+
+---
+
+### 📱 Mobile & Cross-Platform Development
+
+![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge\&logo=react)
+![Expo](https://img.shields.io/badge/EXPO-000020?style=for-the-badge\&logo=expo)
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge\&logo=android)
+
+---
+
+### 🔧 Development Tools & Productivity
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge\&logo=github-actions)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge\&logo=postman)
+![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge\&logo=jira)
+![Sentry](https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge\&logo=sentry)
+
+---
+
 # 🏆 Key Achievements
 
 * 🚀 Built multiple SaaS products from concept to production
