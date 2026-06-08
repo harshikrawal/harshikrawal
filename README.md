@@ -1,4 +1,4 @@
-# 🚀 Harshik Rawal
+# 🚀 👋 Hi, I'm Harshik Rawal
 
 ### Full Stack Developer | SaaS Builder | React & Next.js Expert | AI Integration Specialist
 
