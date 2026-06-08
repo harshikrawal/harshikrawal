@@ -90,9 +90,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshikrawal\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=harshikrawal\&theme=tokyonight\&no-frame=true)
-
----
