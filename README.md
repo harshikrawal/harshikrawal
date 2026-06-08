@@ -100,16 +100,3 @@ Over the years, I've worked on everything from startup MVPs to production-ready 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshikrawal\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=harshikrawal\&theme=tokyonight\&no-frame=true\&margin-w=15)
-
----
-
-![](https://github-contributor-stats.vercel.app/api?username=harshikrawal\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
----
-
-![](https://komarev.com/ghpvc/?username=harshikrawal\&label=Profile+Views\&color=0e75b6\&style=flat)
-
