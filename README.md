@@ -1,102 +1,98 @@
-# Hi there 👋, I'm Harshik Rawal
+# 🚀 Harshik Rawal
 
-### Full Stack Developer • SaaS Builder • React & Next.js Specialist
+### Full Stack Developer | SaaS Builder | React & Next.js Expert | AI Integration Specialist
 
-I'm a product-focused Full Stack Developer passionate about building scalable SaaS platforms, AI-powered applications, and modern web experiences.
+[![Profile Views](https://komarev.com/ghpvc/?username=harshikrawal\&style=for-the-badge)](https://github.com/harshikrawal)
 
-Over the years, I've worked on everything from startup MVPs to production-ready applications, helping businesses transform ideas into reliable digital products. My focus is not just writing code, but delivering solutions that create real value for users and businesses.
-
-* 🚀 Building SaaS products and AI-powered solutions
-* 💼 Freelance Full Stack Developer
-* 🌱 Currently learning System Design, DevOps, and Cloud Architecture
-* 🤝 Open to collaborating on startups, SaaS products, and open-source projects
-* ⚡ Passionate about clean architecture, performance, and user experience
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/harshik-rawal)
+[![Upwork](https://img.shields.io/badge/UPWORK-PROFILE-green?style=for-the-badge\&logo=upwork)](https://www.upwork.com/freelancers/harshikr)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-orange?style=for-the-badge)](#)
 
 ---
 
-## 🏆 Achievements
+# 🚀 About Me
 
-* 🚀 Built and launched multiple SaaS applications from concept to production
-* 💼 Worked with international clients and startup founders
-* ⚡ Developed scalable full-stack applications serving thousands of users
-* 🎨 Strong focus on UI/UX and product-driven development
-* 🤖 Integrated AI workflows into real-world business applications
-* 🔄 Experience across the complete product lifecycle, from planning to deployment
-
----
-
-## 💻 Core Skills
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwind-css)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=react-query)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+* 💼 Full Stack Developer focused on building **SaaS platforms and scalable web applications**
+* ⚡ Specialized in **React, Next.js, TypeScript, Node.js, and modern cloud technologies**
+* 🤖 Building **AI-powered products, workflow automation systems, and business solutions**
+* 🌍 Collaborated with startups and international clients on production-grade applications
+* 🚀 Passionate about transforming business ideas into successful digital products
+* 📈 Strong focus on performance optimization, scalability, and user experience
 
 ---
 
-## 🚀 Currently Focusing On
+# ❤️ Core Skills
 
-* AI-powered SaaS applications
-* System Design & Scalability
-* Cloud-native architectures
-* Developer productivity tools
-* Performance optimization
-* Startup product engineering
+### 🎨 Frontend Development
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/harshik-rawal)
-
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/harshikr)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshikrawal@gmail.com)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript)
+![Redux](https://img.shields.io/badge/REDUX-593D88?style=for-the-badge\&logo=redux)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript)
 
 ---
 
-# 📊 GitHub Stats
+### 🎯 UI & Design Systems
 
-![](https://github-readme-stats.shion.dev/api?username=harshikrawal\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui)
+![Radix UI](https://img.shields.io/badge/RADIX_UI-161618?style=for-the-badge)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge\&logo=figma)
+
+---
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge\&logo=express)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge\&logo=nestjs)
+![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge\&logo=socket.io)
+
+---
+
+### 🗄️ Database & Storage
+
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge\&logo=mysql)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge\&logo=redis)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge\&logo=kubernetes)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge\&logo=cloudflare)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge\&logo=vercel)
+
+---
+
+# 🏆 Key Achievements
+
+* 🚀 Built multiple SaaS products from concept to production
+* 💼 Delivered solutions for international clients and startups
+* 🤖 Developed AI-powered automation workflows
+* ⚡ Optimized large-scale applications for performance and scalability
+* 🎨 Built modern user-centric interfaces with exceptional UX
+* 🔄 Managed complete product development lifecycles
+
+---
+
+# 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=harshikrawal\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ![](https://streak-stats.demolab.com/?user=harshikrawal\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshikrawal\&theme=tokyonight\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshikrawal\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=harshikrawal\&theme=tokyonight\&no-frame=true)
 
 ---
