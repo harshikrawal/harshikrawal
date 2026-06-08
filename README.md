@@ -4,9 +4,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=harshikrawal\&style=for-the-badge)](https://github.com/harshikrawal)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/harshik-rawal)
-[![Upwork](https://img.shields.io/badge/UPWORK-PROFILE-green?style=for-the-badge\&logo=upwork)](https://www.upwork.com/freelancers/harshikr)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-orange?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge)](https://linkedin.com/in/harshik-rawal)
+[![Upwork](https://img.shields.io/badge/UPWORK-PROFILE-6FDA44?style=for-the-badge)](https://www.upwork.com/freelancers/harshikr)
 
 ---
 
